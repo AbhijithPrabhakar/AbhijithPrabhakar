@@ -45,10 +45,10 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhijithprabhakar/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhijith-prabhakar-7697602bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:abhijithprabhakar@example.com">
+  <a href="mailto:abhijithprabhakar123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://abhijithprabhakar.xyz">
