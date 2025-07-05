@@ -10,10 +10,8 @@
 ### 🌟 About Me
 
 - 🎓 I'm a B.Tech student with a passion for building web applications and exploring new technologies.
-- 💡 I’m currently learning **MERN Stack**, **AI/ML**, and **DevOps** tools.
 - 🌱 Open to internships and freelance projects to gain real-world experience.
-- 💬 Ask me about **JavaScript, React, Node.js, Python**, and anything tech-related!
-- 📫 Reach me at: **abhijithprabhakar@example.com**
+- 📫 Reach me at: **abhijithprabhakar@gmail.com**
 - 🌐 Portfolio: [abhijithprabhakar.xyz](https://abhijithprabhakar.xyz)
 
 ---
