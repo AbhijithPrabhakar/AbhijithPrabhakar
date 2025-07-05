@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijith Prabhakar</h1>
-<h3 align="center">A passionate developer and technology enthusiast from India</h3>
+<h3 align="center">A passionate developer and technology enthusiast.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Full+Stack+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
